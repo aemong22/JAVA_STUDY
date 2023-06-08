@@ -16,6 +16,5 @@ public class PatternTest {
         Shape C = factory.createShape("세모");
 
 
-
     }
 }

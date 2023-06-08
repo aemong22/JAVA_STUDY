@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1062f00-0578-4fa9-a268-75e7412eea03" name="Changes" comment="불필요한 파일 삭제">
+      <change afterPath="$PROJECT_DIR$/algo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/kakao/개인정보수집.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/kakao/택배배달과수거하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/FactoryPattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/FactoryPattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/FactoryPattern/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/FactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/FactoryPattern/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/FactoryPattern/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/PatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/PatternTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QvbHsh65SmayQdpRly1XKmUKyA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/JAVA_STUDY&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternTest" />
+      <module name="Java_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PatternTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1062f00-0578-4fa9-a268-75e7412eea03" name="Changes" comment="" />
+      <created>1686236919246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686236919246</updated>
+    </task>
+    <task id="LOCAL-00001" summary="factory pattern 공부">
+      <created>1686237298974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686237298974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="불필요한 파일 삭제">
+      <created>1686237446771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686237446771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="factory pattern 공부" />
+    <MESSAGE value="불필요한 파일 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="불필요한 파일 삭제" />
+  </component>
+</project>
